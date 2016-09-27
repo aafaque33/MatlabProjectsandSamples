@@ -1,3 +1,8 @@
+%% Programmer
+% Aafaque Aafaque
+
+%% Function Start
+
 function EdgeDetection()
 
 %% Clear workspace and Variables
